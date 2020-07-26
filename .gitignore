@@ -13,7 +13,8 @@
 
 # misc
 .DS_Store
-
+# have to remove later.
+.env
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
